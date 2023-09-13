@@ -10,7 +10,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     width: auto;
-    height: 10em;
+    height: 8em;
 }
 
 main{
@@ -23,7 +23,7 @@ header > h1{
     text-align: left;
     margin: 10px;
     padding-left: 10px;
-    padding-top: 2em;
+    padding-top: 50px;
 }
 
 main{
